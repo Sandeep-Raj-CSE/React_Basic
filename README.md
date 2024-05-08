@@ -4,6 +4,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ![image](https://github.com/Sandeep-Raj-CSE/React_Basic/assets/93475813/8795fc7c-cf25-4923-970a-b70ab9f88059)
 
+# Take the data and after fetching data 
+![image](https://github.com/Sandeep-Raj-CSE/React_Basic/assets/93475813/62b9547a-0f6c-4541-a2d7-9f6e5c60ad35)
+
 
 Currently, two official plugins are available:
 
