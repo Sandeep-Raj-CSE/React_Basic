@@ -11,6 +11,7 @@
 
 import React from "react"
 
+
 // ye glti nhi karne hai function ka naam file ke naam
 // ke anusar rheke ll
 // function App(){
@@ -26,16 +27,36 @@ import React from "react"
 // import SecondPage from "./components/SecondPage"
 
 import Card from "./components/Card"
+//import { data } from "autoprefixer"
 
 
 function App(){
+  // mtlb ki return ke bhar kuch bhi hm rhk sakte hai good good
+ // const data=12;
+
+ //const data=["sandeep","raj","Aryan"]
   return (
+
+    
 
     <div>
        {/* <Navbar/>
        <Hero/>
        <SecondPage/> */}
        <Card/>
+
+       {/* {data.map((value, index)=> <h1 key={index}> Hey</h1>)} */}
+{/* 
+       {data.map((val,index) => (
+        <div className="px-3 py-4 bg-zinc-300  rounded-md w-fit" key={index}> 
+         {val}
+
+        </div>
+       ))} */}
+
+       
+
+
 
 
     </div>
